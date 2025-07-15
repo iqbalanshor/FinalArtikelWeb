@@ -4,15 +4,14 @@
 
 | Nama | Kelas | NIM | Mata Kuliah |
 |------|-------|-----|-------------|
-| Muhammad Arif Mulyanto   |  TI.23.A.5     | 312310359 | Pemrograman Website 2 |
+| Muhammad Iqbal Al Anshori   |  TI.23.A.6     | 312310659 | Pemrograman Website 2 |
 
 # Daftar Isi Dan Penjelasan Praktikum Web Programming (CI4 + VueJS)
 
 | No  | Praktikum                | Link Repository                                                        |
 |-----|--------------------------|------------------------------------------------------------------------|
-| 1   | Praktikum 1 - 3          | [🔗 Lab 1 - 3 (CodeIgniter 4)](https://github.com/MuhArifyanto/Lab7Web.git)         |
-| 2   | Praktikum 4 - 6          | [🔗 Lab 4 - 6 (CodeIgniter 4)](https://github.com/MuhArifyanto/Lab11web.git)        |
-| 3   | Praktikum 7 - 11         | [🔗 Lab 7 - 11 (CodeIgniter 4)](https://github.com/MuhArifyanto/lab8web.git)        |
+| 1   | Praktikum 1 - 6          | [🔗 Lab 1 - 6 (CodeIgniter 4)](https://github.com/iqbalanshor/Lab7web.git)         |
+| 2   | Praktikum 7 - 11         | [🔗 Lab 7 - 11 (CodeIgniter 4)](https://github.com/MuhArifyanto/lab8web.git)        |
 | 4   | Praktikum 8 - VueJS      | [🔗 VueJS + CI4 ](https://github.com/MuhArifyanto/labvue8.git)         |
 
 ## 🌐 Link Aplikasi Live
