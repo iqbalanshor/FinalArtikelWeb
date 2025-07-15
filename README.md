@@ -11,7 +11,7 @@
 | No  | Praktikum                | Link Repository                                                        |
 |-----|--------------------------|------------------------------------------------------------------------|
 | 1   | Praktikum 1 - 6          | [🔗 Lab 1 - 6 (CodeIgniter 4)](https://github.com/iqbalanshor/Lab7web.git)         |
-| 2   | Praktikum 7 - 11         | [🔗 Lab 7 - 11 (CodeIgniter 4)](https://github.com/MuhArifyanto/lab8web.git)        |
+| 2   | Praktikum 7 - 11         | [🔗 Lab 7 - 11 (CodeIgniter 4)](https://github.com/iqbalanshor/lab8web.git)       |
 | 4   | Praktikum 8 - VueJS      | [🔗 VueJS + CI4 ](https://github.com/MuhArifyanto/labvue8.git)         |
 
 ## 🌐 Link Aplikasi Live
