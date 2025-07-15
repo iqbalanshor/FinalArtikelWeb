@@ -4,7 +4,7 @@
 
 | Nama | Kelas | NIM | Mata Kuliah |
 |------|-------|-----|-------------|
-| Muhammad Iqbal Al Anshori   |  TI.23.A.6     | 312310659 | Pemrograman Website 2 |
+| Muhammad Iqbal Al Anshori   |  TI.23.A6     | 312310659 | Pemrograman Website 2 |
 
 # Daftar Isi Dan Penjelasan Praktikum Web Programming (CI4 + VueJS)
 
@@ -12,14 +12,7 @@
 |-----|--------------------------|------------------------------------------------------------------------|
 | 1   | Praktikum 1 - 6          | [🔗 Lab 1 - 6 (CodeIgniter 4)](https://github.com/iqbalanshor/Lab7web.git)         |
 | 2   | Praktikum 7 - 11         | [🔗 Lab 7 - 11 (CodeIgniter 4)](https://github.com/iqbalanshor/lab8web.git)       |
-| 4   | Praktikum 8 - VueJS      | [🔗 VueJS + CI4 ](https://github.com/MuhArifyanto/labvue8.git)         |
-
-## 🌐 Link Aplikasi Live
-
-| Aplikasi            | URL                                                            | Deskripsi                                 |
-| ------------------- | -------------------------------------------------------------- | ----------------------------------------- |
-| **Web Artikel CI4** | (https://artikelwarga.iceiy.com/)         | Aplikasi web artikel dengan CodeIgniter 4 |
-| **VueJS Frontend**  | (https://vuejsarif.iceiy.com/) | Frontend VueJS untuk konsumsi REST API    |
+| 4   | Praktikum 8 - VueJS      | [🔗 VueJS + CI4 ](https://github.com/iqbalanshor/labvue8.git)         |
 
 # Sistem Manajemen Artikel - Vue.js + Backend API
 
@@ -41,40 +34,40 @@ Ini adalah proyek sistem manajemen artikel berbasis **Vue.js** untuk frontend da
 ### 🟦 1. Halaman Login
 Menampilkan form login agar pengguna bisa mengakses dashboard dan fitur lainnya.
 
-![{87AF4855-B95C-4DC9-8ACC-DB7D3B4394B0}](https://github.com/user-attachments/assets/664fa186-c509-4aee-b10f-59ac134b8ad2)
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/afc6be6f-b91e-4002-8635-acd310154d97" />
 
 ---
 
 ### 🏠 2. Halaman Home
 Menampilkan daftar artikel/artikel terbaru.
 
-![{61AE8BD2-62A6-4760-90C4-BCB354CA169E}](https://github.com/user-attachments/assets/0e71847d-f536-4789-9b8e-ebd7bf51d17c)
-![{CAEB1B16-1019-48BF-8FD1-1F353AC817B7}](https://github.com/user-attachments/assets/d27bbcb1-8f95-424d-8db4-c5938e1719e5)
+<img width="1919" height="646" alt="image" src="https://github.com/user-attachments/assets/563b2799-5466-4325-b9fc-7bc8d9182a1e" />
+<img width="1919" height="888" alt="Screenshot 2025-07-15 203422" src="https://github.com/user-attachments/assets/39241e41-9416-4294-8141-2afb5a59e9bc" />
 
 ---
 
 ### ℹ️ 3. Halaman About
 Berisi informasi tentang aplikasi atau tim developer.
 
-![{9F45D30C-F63A-4688-888B-8BB0667B24B4}](https://github.com/user-attachments/assets/29833b51-f48e-4fc8-9679-52909519908d)
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/995ef983-6910-4c98-afc0-c2eaee0d243c" />
 
 ---
 
 ### 📞 4. Halaman Contact
 Berisi form atau informasi kontak pengembang.
 
-![{C5B6B1EB-F141-4FF8-8CDF-5C02DA60ED0D}](https://github.com/user-attachments/assets/6c669823-3537-4ac0-a558-2eb3027b5e48)
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/8b9e500f-d017-42e1-a3d2-d1a5ee503aa8" />
 
 ---
 
 ### 📊 5. Halaman Dashboard
 Menampilkan ringkasan data dan menu navigasi admin.
 
-![{AEECAA8B-8BE9-444D-831C-92C67086A753}](https://github.com/user-attachments/assets/3cb889c0-e52c-4932-afa3-dd1a2664048d)
+<img width="1919" height="723" alt="Screenshot 2025-07-15 201047" src="https://github.com/user-attachments/assets/29825693-e677-407d-a974-338b551ce960" />
 
 ---
 
 ### 📝 6. Tambah Artikel
 Form untuk menambahkan artikel baru dengan input judul, isi, gambar, dsb.
 
-![{207648A6-DDC7-45B1-8E71-E210834655A8}](https://github.com/user-attachments/assets/2e6db05d-7505-4a7b-9c5f-b4fc6bd36205)
+<img width="1919" height="874" alt="Screenshot 2025-07-15 195408" src="https://github.com/user-attachments/assets/d59d1af0-3f78-4360-bb65-6a330765e1a2" />
